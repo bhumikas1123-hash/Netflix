@@ -107,13 +107,6 @@ This project highlights how data analysis can uncover patterns in digital conten
 
 ---
 
-## References
-
-* Kaggle Dataset: [https://www.kaggle.com/datasets/imtkaggleteam/netflix](https://www.kaggle.com/datasets/imtkaggleteam/netflix)
-* Additional Notebook: [https://www.kaggle.com/code/davinci00/netflix-explortory-project](https://www.kaggle.com/code/davinci00/netflix-explortory-project)
-
----
-
 ## Acknowledgment
 
 This project was completed as part of my learning journey in **Data Analytics and Business Intelligence**.

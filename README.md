@@ -109,4 +109,4 @@ This project highlights how data analysis can uncover patterns in digital conten
 
 ## Acknowledgment
 
-This project was completed as part of my learning journey in **Data Analytics and Business Intelligence**.
+I extend my appreciation to my mentors, faculty, and peers for their guidance and support throughout this project. Additionally, I am grateful to the open-source community and resources that helped me strengthen my understanding of data analysis and visualization techniques.
